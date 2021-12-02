@@ -1,2 +1,5 @@
-# ATR-Python
-How to Calculate ATR(Average True Range) in Python
+# Technical Indicators In Python
+ 
+ This Repositary includes - 
+ ATR
+ Bollinger Bands
