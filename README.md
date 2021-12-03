@@ -1,3 +1,3 @@
 # Technical Indicators In Python
  
- Tutorial on ATR, Bollinger Bands, RSI
+ Tutorial on ATR, Bollinger Bands, RSI, EMA, SMA
